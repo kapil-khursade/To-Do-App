@@ -1,0 +1,30 @@
+/* Write css related to the Home page here  */
+
+
+
+#create{
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    height: auto;
+    border: 1px solid; 
+}
+
+#create>form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+input{
+    margin-bottom: 10px;
+    width: 80%;
+    height: 35px;
+}
+
+#priority{
+    margin-bottom: 10px;
+    width: 80%;
+    height: 35px;
+}

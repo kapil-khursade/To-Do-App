@@ -1,0 +1,19 @@
+/* Write necessery css for navbar here  */
+
+#navbar{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border: 0px solid;
+    background-color: rgb(20, 209, 114);
+    color: white;
+    margin-bottom: 20px;
+}
+
+#navbar>div{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    border: 0px solid;
+}

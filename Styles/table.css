@@ -1,0 +1,19 @@
+/* Write all the code related to the table here  */
+
+table{
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    width: 80%;
+}
+thead{
+    background-color: yellow;  
+}
+
+tr{
+    border: 1px solid;
+}
+
+tbody>tr>td:last-child{
+    cursor: pointer;
+}
